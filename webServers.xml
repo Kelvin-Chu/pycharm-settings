@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4089d9f7-fa08-4451-a80a-401c9286c6f6" name="52.25.84.125" url="http://www.mechpages.com">
+      <webServer id="5145d841-0cc6-4db3-aca0-ffa6c516bc8f" name="ec2-52-26-33-102.us-west-2.compute.amazonaws.com" url="http://www.mechpages.com">
         <fileTransfer host="52.25.84.125" port="22" privateKey="C:\Users\Kelvin Chu\Documents\keys\kchu" accessType="SFTP" username="kchu" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
