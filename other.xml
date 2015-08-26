@@ -1,0 +1,19 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="ssh://kchu@52.25.84.125:22/etc/mechpages/env/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="ssh://kchu@52.25.84.125:22/etc/mechpages/env/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="ssh://kchu@52.25.84.125:22/etc/mechpages/env/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
