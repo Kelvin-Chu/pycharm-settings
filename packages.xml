@@ -4522,6 +4522,7 @@
         <entry key="Plutonium" value="1.1.0" />
         <entry key="PlyPlus" value="0.6.2" />
         <entry key="Pmw" value="2.0.1" />
+        <entry key="PngDistill" value="0.0.1" />
         <entry key="PoParser" value="0.0.2" />
         <entry key="PoachEggs" value="0.2" />
         <entry key="PocketPy" value="0.1.1" />
@@ -7920,7 +7921,7 @@
         <entry key="XBee" value="2.1.0" />
         <entry key="XBlock" value="0.4" />
         <entry key="XD-tool" value="0.1.0" />
-        <entry key="XL2py" value="1.0.9" />
+        <entry key="XL2py" value="1.0.10" />
         <entry key="XML2Dict" value="0.2.2" />
         <entry key="XMLCheck" value="0.7.1" />
         <entry key="XMLLayout" value="1.0" />
@@ -8064,7 +8065,7 @@
         <entry key="Yoav" value="0.2.1" />
         <entry key="Yoopf-for-Python" value="0.0.2" />
         <entry key="Yotsuba" value="3.1" />
-        <entry key="YoudaoDict" value="1.1.5.2" />
+        <entry key="YoudaoDict" value="1.1.6.0" />
         <entry key="YoullDownload" value="0.3" />
         <entry key="Yowsup" value="0.2" />
         <entry key="Yozuch" value="0.3.0" />
@@ -9712,7 +9713,7 @@
         <entry key="asana-hub" value="0.2.12" />
         <entry key="asana-kazoo" value="2.0.8dev" />
         <entry key="ascension_kit" value="0.0.14" />
-        <entry key="ascetic" value="0.7.2.23" />
+        <entry key="ascetic" value="0.7.2.24" />
         <entry key="asciaf" value="1.0.0" />
         <entry key="ascii2hdf5" value="1.3" />
         <entry key="ascii_gazebo" value="0.1.3" />
@@ -10244,7 +10245,7 @@
         <entry key="autoslack" value="0.0.1.dev1" />
         <entry key="autosort" value="0.1.0" />
         <entry key="autostat" value="0.1.8" />
-        <entry key="autosub" value="0.3.3" />
+        <entry key="autosub" value="0.3.4" />
         <entry key="autosubmit" value="3.1.3" />
         <entry key="autosuper" value="0.1.0" />
         <entry key="autosync" value="0.0.4" />
@@ -13394,7 +13395,7 @@
         <entry key="chrome_remote_shell" value="1.2" />
         <entry key="chromedriver" value="2.19" />
         <entry key="chromedriver_installer" value="0.0.4" />
-        <entry key="chromelogger" value="0.4.1" />
+        <entry key="chromelogger" value="0.4.2" />
         <entry key="chromescript" value="0.1" />
         <entry key="chrominance" value="0.1" />
         <entry key="chromium_compact_language_detector" value="0.2" />
@@ -16767,7 +16768,7 @@
         <entry key="curlish" value="1.22" />
         <entry key="curlwrapper" value="0.1.110" />
         <entry key="curly" value="0.0.4" />
-        <entry key="curmit" value="0.1.3" />
+        <entry key="curmit" value="1.0" />
         <entry key="currconv" value="0.1" />
         <entry key="currencies" value="2014.7.13" />
         <entry key="currency.converter" value="0.5.5" />
@@ -20010,7 +20011,7 @@
         <entry key="django-filternaut" value="0.0.5" />
         <entry key="django-filters" value="0.2.1" />
         <entry key="django-filters-mixin" value="0.1.2" />
-        <entry key="django-finalware" value="0.1.0" />
+        <entry key="django-finalware" value="0.1.1" />
         <entry key="django-financial-transactions" value="0.2" />
         <entry key="django-finegrained-permissions" value="0.0.1" />
         <entry key="django-finial" value="0.3.4" />
@@ -36811,7 +36812,7 @@
         <entry key="makefile_maker" value="0.0.1dev" />
         <entry key="makemymails" value="0.0.2" />
         <entry key="makeobj" value="0.8" />
-        <entry key="makeprojects" value="0.3.6" />
+        <entry key="makeprojects" value="0.3.7" />
         <entry key="maker" value="1.3.0" />
         <entry key="makesense" value="0.1.0" />
         <entry key="makesetup" value="0.0.4" />
@@ -42990,7 +42991,7 @@
         <entry key="payara" value="0.0.1" />
         <entry key="paycheck" value="1.0.2" />
         <entry key="paydirt" value="0.1" />
-        <entry key="payeezy" value="1.0.5" />
+        <entry key="payeezy" value="1.0.6" />
         <entry key="payjp" value="0.0.1" />
         <entry key="paylib" value="0.2.1" />
         <entry key="paylogic-genres" value="1.0.0" />
@@ -43430,7 +43431,7 @@
         <entry key="petsc4py" value="3.6.0" />
         <entry key="petulant-bear" value="0.1.3" />
         <entry key="pev" value="0.1.0" />
-        <entry key="pew" value="0.1.16" />
+        <entry key="pew" value="0.1.17" />
         <entry key="pex" value="1.0.3" />
         <entry key="pexif" value="0.15" />
         <entry key="pexpect" value="3.3" />
@@ -44224,7 +44225,7 @@
         <entry key="plone.app.s5slideshow" value="1.0" />
         <entry key="plone.app.search" value="1.2.2" />
         <entry key="plone.app.stagingbehavior" value="0.1" />
-        <entry key="plone.app.standardtiles" value="1.0b3" />
+        <entry key="plone.app.standardtiles" value="1.0b4" />
         <entry key="plone.app.testing" value="5.0b6" />
         <entry key="plone.app.textfield" value="1.2.6" />
         <entry key="plone.app.texttile" value="1.0" />
@@ -45408,6 +45409,7 @@
         <entry key="proxyprefix" value="0.1.1" />
         <entry key="proxypypi" value="1.2.2" />
         <entry key="proxytcp" value="0.3" />
+        <entry key="prt_nestedList" value="1.2.0" />
         <entry key="prtdep" value="0.0.2" />
         <entry key="prudentia" value="0.15.1" />
         <entry key="prueba2" value="1.2.0" />
@@ -47759,7 +47761,7 @@
         <entry key="pyislands" value="0.1.3" />
         <entry key="pyiso" value="0.2.11" />
         <entry key="pyitect" value="2.0.1" />
-        <entry key="pyiterable" value="0.3.1" />
+        <entry key="pyiterable" value="0.4.0" />
         <entry key="pyivi" value="0.0.8" />
         <entry key="pyixia" value="0.1" />
         <entry key="pyjack" value="0.3.2" />
@@ -56397,6 +56399,7 @@
         <entry key="smartencoding" value="0.3" />
         <entry key="smarterling" value="0.5" />
         <entry key="smartfile" value="2.1-7" />
+        <entry key="smartframes" value="1.0.1" />
         <entry key="smartlivinglab" value="1.0.1" />
         <entry key="smartmeter-analyze" value="0.1.2" />
         <entry key="smartmin" value="1.8.1" />
@@ -57449,7 +57452,7 @@
         <entry key="sqlbean" value="0.603" />
         <entry key="sqlbind" value="0.0.1" />
         <entry key="sqlbridge" value="0.1.68" />
-        <entry key="sqlbuilder" value="0.7.9.14" />
+        <entry key="sqlbuilder" value="0.7.9.15" />
         <entry key="sqlcc" value="0.3.2" />
         <entry key="sqlchain" value="0.1.10" />
         <entry key="sqlcmd" value="0.7.1" />
@@ -62506,7 +62509,7 @@
         <entry key="vanguardistas.pydebdep" value="0.1.2" />
         <entry key="vanilla" value="0.1.13" />
         <entry key="vanilla.bean" value="0.1.3" />
-        <entry key="vanilla.consul" value="0.4.2" />
+        <entry key="vanilla.consul" value="0.4.5" />
         <entry key="vanity" value="2.1.0" />
         <entry key="vaporize" value="0.3.2" />
         <entry key="vaquero" value="0.0.1" />
@@ -66031,6 +66034,6 @@
         <entry key="zzzfs" value="0.1" />
       </map>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1443920240653" />
+    <option name="LAST_TIME_CHECKED" value="1443930400488" />
   </component>
 </application>
