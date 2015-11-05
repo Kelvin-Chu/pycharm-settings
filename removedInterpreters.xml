@@ -3,6 +3,7 @@
     <option name="REMOVED_SDKS">
       <set>
         <option value="ssh://kchu@52.32.235.105:22/usr/bin/python" />
+        <option value="ssh://kchu@52.32.72.213:22/etc/mechpages/env/bin/python" />
       </set>
     </option>
   </component>
