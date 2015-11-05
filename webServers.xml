@@ -8,6 +8,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="39d67527-ea9d-46ba-85d4-0f497682645f" name="52.32.235.105" url="http://www.mechpages.com">
+        <fileTransfer host="52.32.235.105" port="22" privateKey="C:\Users\Kelvin Chu\Documents\keys\kchu" accessType="SFTP" username="www" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

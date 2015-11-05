@@ -24,6 +24,7 @@
         <entry key="ssh://kchu@52.32.72.213:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://kchu@52.89.125.52:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://kchu@ec2-52-26-33-102.us-west-2.compute.amazonaws.com:22/etc/mechpages/env/bin/python" value="false" />
+        <entry key="ssh://www@52.32.235.105:22/etc/mechpages/env/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
@@ -34,6 +35,7 @@
         <entry key="ssh://kchu@52.32.72.213:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://kchu@52.89.125.52:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://kchu@ec2-52-26-33-102.us-west-2.compute.amazonaws.com:22/etc/mechpages/env/bin/python" value="false" />
+        <entry key="ssh://www@52.32.235.105:22/etc/mechpages/env/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
@@ -44,6 +46,7 @@
         <entry key="ssh://kchu@52.32.72.213:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://kchu@52.89.125.52:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://kchu@ec2-52-26-33-102.us-west-2.compute.amazonaws.com:22/etc/mechpages/env/bin/python" value="false" />
+        <entry key="ssh://www@52.32.235.105:22/etc/mechpages/env/bin/python" value="false" />
       </map>
     </option>
   </component>
