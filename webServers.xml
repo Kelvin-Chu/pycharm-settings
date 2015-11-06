@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="5145d841-0cc6-4db3-aca0-ffa6c516bc8f" name="52.11.141.219" url="http://www.mechpages.com">
-        <fileTransfer host="52.11.141.219" port="22" privateKey="C:\Users\Kelvin Chu\Documents\keys\kchu" accessType="SFTP" username="kchu" keyPair="true">
+        <fileTransfer host="52.11.141.219" port="22" privateKey="C:\Users\Kelvin Chu\Documents\keys\kchu" accessType="SFTP" username="www" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
