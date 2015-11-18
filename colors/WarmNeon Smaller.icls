@@ -1,7 +1,6 @@
 <scheme name="WarmNeon Smaller" version="141" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="10" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
