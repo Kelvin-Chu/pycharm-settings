@@ -26,6 +26,7 @@
         <entry key="ssh://kchu@ec2-52-26-33-102.us-west-2.compute.amazonaws.com:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://www@52.11.141.219:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://www@52.32.152.209:22/etc/mechpages/env/bin/python" value="false" />
+        <entry key="ssh://www@52.32.215.198:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://www@52.32.235.105:22/etc/mechpages/env/bin/python" value="false" />
       </map>
     </option>
@@ -39,6 +40,7 @@
         <entry key="ssh://kchu@ec2-52-26-33-102.us-west-2.compute.amazonaws.com:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://www@52.11.141.219:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://www@52.32.152.209:22/etc/mechpages/env/bin/python" value="false" />
+        <entry key="ssh://www@52.32.215.198:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://www@52.32.235.105:22/etc/mechpages/env/bin/python" value="false" />
       </map>
     </option>
@@ -52,6 +54,7 @@
         <entry key="ssh://kchu@ec2-52-26-33-102.us-west-2.compute.amazonaws.com:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://www@52.11.141.219:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://www@52.32.152.209:22/etc/mechpages/env/bin/python" value="false" />
+        <entry key="ssh://www@52.32.215.198:22/etc/mechpages/env/bin/python" value="false" />
         <entry key="ssh://www@52.32.235.105:22/etc/mechpages/env/bin/python" value="false" />
       </map>
     </option>
